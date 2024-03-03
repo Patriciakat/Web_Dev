@@ -1,0 +1,1 @@
+This repo hosts my projects and challenges completed during the 'The Complete 2024 Web Development Bootcamp' on Udemy. This course taught me how to be a full-stack web developer and covered topics like HTML, CSS, JavaScript, Node, React, PostgreSQL, Web3, and DApps, setting the foundation for building versatile web applications.
